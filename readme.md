@@ -17,4 +17,4 @@ In the file "Original search" you find the original papers identified from the d
 		6  Scope not in MBSE
 149 studies included
 
-In the file "Table for protocol" you can find the raw extraction of the papers identified in the study, seperated in colums per extracted item. These papers correspond to the papers that were included after applying the Inclusion and Exclusion criteria and was exported from the Covidence tool once all extraction was done. 
+In the file "Table for protocol" you can find the raw extraction of the papers identified in the study, seperated in colums per extracted item. These papers correspond to the papers that were included after applying the Inclusion and Exclusion criteria and was exported from the Covidence tool once all extraction was done. Additionally there are 2 seperate tabs for the exluded papers from the screening and full paper review respectivly. 
