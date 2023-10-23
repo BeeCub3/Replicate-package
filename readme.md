@@ -1,4 +1,4 @@
-This is a replication package for a Systematic Literature review, currently under review.
+This is a replication package for the systematic literature review : "Early Validation and Verification of System Behaviour in Model-Based Systems Engineering: A Systematic Literature Review", which has been accepted for publication at "ACM Transactions on Software Engineering and Methodology (TOSEM)" in October of 2023. 
 
 In the file "Original search" you find the original papers identified from the database search. The rest of the proccess after automatic identification was performed in the tool Covidence. By using the tool browser client all annotating and management of data was performed via the tool, before the final export of the data extraction for further analysis. The Extraction can be summarized via the following PRISMA flow:
   
